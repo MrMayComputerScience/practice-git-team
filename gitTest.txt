@@ -1,8 +1,7 @@
 Hi, how are you?
 
-<<<<<<< HEAD
 The fast brown fox jumped over the lazy dog
-=======
+
 The slow brown fox jumped over the lazy dog
 
 Git is cool
@@ -15,4 +14,3 @@ Oh well
 
 Hello
 
->>>>>>> 0c095727bbdceef22a881fd4ee9bc7e618d8b302
