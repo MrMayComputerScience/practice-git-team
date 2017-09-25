@@ -1,16 +1,1 @@
-Hi, how are you?
-
-The fast brown fox jumped over the lazy dog
-
-The slow brown fox jumped over the lazy dog
-
-Git is cool
-
-Hopefully this works
-
-I'm still confused
-
-Oh well
-
-Hello
-
+This is a test
