@@ -1,2 +1,2 @@
 This is a sentence.
-This is a new thing.
+This is a new things.
