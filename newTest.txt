@@ -1,2 +1,5 @@
 This is a sentence.
+<<<<<<< HEAD
 This is a new things.
+=======
+This is a new sentence.
